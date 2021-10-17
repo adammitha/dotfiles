@@ -1,0 +1,10 @@
+- Set zsh as login shell
+- Install oh-my-zsh
+- Install go
+- Install rust
+- Install tree
+- Install rg
+- Install fzf
+	- Add fzf env variables to .zshrc
+- Install fd-find
+	- Link fdfind to fd
