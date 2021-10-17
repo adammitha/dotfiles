@@ -3,8 +3,19 @@
 - Install go
 - Install rust
 - Install tree
+- Install htop
 - Install rg
 - Install fzf
 	- Add fzf env variables to .zshrc
 - Install fd-find
 	- Link fdfind to fd
+- Install bat
+	- Use cargo for latest version
+	- Create config file
+	- Theme="TwoDark"
+	- Add --color=always
+- Install neovim
+	- Vim-plug
+	- fzf plugin
+- Install gh
+- Install net-tools if ifconfig not available
