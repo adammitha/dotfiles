@@ -1,5 +1,7 @@
-- Set zsh as login shell
-- Install oh-my-zsh
+- Set fish as login shell
+- Install oh-my-fish
+- Install alacritty
+	- Nord theme
 - Install go
 - Install rust
 - Install tree
@@ -17,5 +19,6 @@
 - Install neovim
 	- Vim-plug
 	- fzf plugin
+	- Nord theme
 - Install gh
 - Install net-tools if ifconfig not available
