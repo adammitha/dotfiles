@@ -2,8 +2,11 @@
 - Install oh-my-fish
 - Install alacritty
 	- Nord theme
+- Install nix package manager
+	- use for all system packages unless otherwise specified
 - Install go
 - Install rust
+	- Use rustup
 - Install tree
 - Install htop
 - Install rg
